@@ -66,3 +66,4 @@ Each board folder also gets a `state.json` and `metadata.json` file that track w
 - Failed downloads are silently skipped and will be retried on the next run
 - The `pinterest-profile/` folder stores your browser login session so you don't have to log in every time
 
+this project was suffercoded
