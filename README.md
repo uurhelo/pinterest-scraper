@@ -13,6 +13,7 @@ A Node.js script that bulk downloads images from Pinterest boards to your comput
 2. Open a terminal in the folder and install dependencies:
 
 ```
+(example)cd /d C:\pinterest-scalper
 npm install playwright
 npx playwright install chromium
 ```
