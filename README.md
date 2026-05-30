@@ -65,17 +65,3 @@ Each board folder also gets a `state.json` and `metadata.json` file that track w
 - Failed downloads are silently skipped and will be retried on the next run
 - The `pinterest-profile/` folder stores your browser login session so you don't have to log in every time
 
-## .gitignore recommendation
-
-If you fork this, add a `.gitignore` to avoid committing downloaded images or your login session:
-
-```
-pinterest-profile/
-node_modules/
-*.json
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.webp
-```
